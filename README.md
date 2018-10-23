@@ -1,3 +1,11 @@
+npm run i
+
+create-react-app my-app --scripts-version=react-scripts-ts
+npm i @types/react-redux react-redux redux redux-devtools-extension redux-thunk
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
